@@ -1,6 +1,6 @@
-### Hi I am @mrmalac 👋
+# Hi I am @mrmalac 👋
 
-# What I am doing:
+### What I am doing:
 - 💻 I’m currently working on a P2P Network and mrmalac/advrc.
 - 📚 I’m currently learning Data Structures and Algorithms.
 - 📖 I am currently analyzing and learning about bitcoin/bitcoin code. 
