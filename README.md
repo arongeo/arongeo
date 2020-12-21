@@ -1,4 +1,4 @@
-# Hi I am @mrmalac 👋
+# Hi I am mrmalac 👋
 
 ### What I am doing:
 - 💻 I am currently working on a P2P Network and mrmalac/advrc.
