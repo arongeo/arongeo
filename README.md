@@ -6,7 +6,7 @@
 - 📖 I am currently analyzing and learning about bitcoin/bitcoin code.
 - 👍🏻 I like computer cryptography.
 
-### My main programming languages are:
+### I know:
 - Python
 - C++
 - C
