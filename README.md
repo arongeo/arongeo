@@ -2,7 +2,7 @@
 
 ### What I am doing:
 - 💻 I am currently working on a P2P Network and mrmalac/advrc.
-- 📚 I am currently learning Data Structures and Algorithms, and Bitcoin's cryptography.
+- 📚 I am currently learning about Data Structures and Algorithms, and Cryptocurrencies.
 - 👍🏻 I like computer cryptography.
 
 ### I know:
