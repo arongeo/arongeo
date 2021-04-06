@@ -5,9 +5,9 @@
 - 📚 I am currently learning about Data Structures and Algorithms, Cryptocurrencies, and C++.
 - 👍🏻 I like computer cryptography.
 
-### I know:
-- Python
+### I know (in order, best to worst):
 - C++
+- Python
 - C
 
 <!--
