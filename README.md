@@ -5,11 +5,6 @@
 - 📚 I am currently learning about Data Structures and Algorithms, Cryptocurrencies, and C++.
 - 👍🏻 I like computer cryptography.
 
-### I know (in order, best to worst):
-- C++
-- Python
-- C
-
 [![mrmalac's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmalac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmalac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
