@@ -1,9 +1,8 @@
 # Hi I am mrmalac 👋
 
 ### What I am doing:
-- 💻 I am currently working on a P2P Network.
-- 📚 I am currently learning about Data Structures and Algorithms, Cryptocurrencies, and C++.
-- 👍🏻 I like computer cryptography.
+- 💻 I am currently working on an Operating System.
+- 👍🏻 I like computer cryptography, and low-level programming.
 
 [![mrmalac's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmalac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
