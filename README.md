@@ -1,6 +1,6 @@
 # Hi I am mrmalac 👋
 
-Website[website](https://mrmalac.com)
+[Website](https://mrmalac.com)
 
 ### What I am doing:
 - 💻 I am currently working on an Operating System.
