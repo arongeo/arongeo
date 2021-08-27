@@ -3,7 +3,7 @@
 [Website](https://mrmalac.com)
 
 ### What I am doing:
-- 💻 I am currently working on an Operating System.
+- 💻 I am currently working on a Password Manager and an Operating System.
 - 👍🏻 I like computer cryptography, and low-level programming.
 
 [![mrmalac's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmalac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
