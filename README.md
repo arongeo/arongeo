@@ -3,7 +3,7 @@
 [Website](https://arongeo.com)
 
 ### What I am doing:
-- 💻 I am currently learning Unreal Engine.
+- 💻 I am currently learning Rust, memory management and systems programming.
 - 👍🏻 I like computer cryptography, and low-level programming.
 
 [![mrmalac's GitHub stats](https://github-readme-stats.vercel.app/api?username=arongeo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
